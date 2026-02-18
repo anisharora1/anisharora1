@@ -78,27 +78,4 @@ Git | GitHub | Google Analytics
 
 ---
 
-## 📜 Certifications  
-
-- Cloud Computing – NPTEL  
-- Software Development Processes – Coursera  
-- Responsive Web Design – freeCodeCamp  
-
----
-
-## 🎓 Education  
-
-**B.Tech - Computer Science & Engineering**  
-Lovely Professional University (CGPA: 7.44)  
-
----
-
-## 📫 Connect With Me  
-
-📧 Email: aniskumar890@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/anish-kumar91/  
-💻 GitHub: https://github.com/anisharora1  
-
----
-
 ⭐ *Always open to internship and collaboration opportunities in Backend or Full-Stack Development.*  
