@@ -13,19 +13,14 @@ I enjoy building scalable backend systems, real-time applications, and responsiv
 ---
 
 ## 🛠️ Tech Stack  
+                                                                    
+### 💻 Languages                                             ### 🔧 Backend  
+C++ | Python | JavaScript                                     Node.js | Express.js  
 
-### 💻 Languages  
-C++ | Python | JavaScript  
 
 ### 🌐 Frontend  
-React.js | HTML | CSS | Tailwind CSS  
-
-### 🔧 Backend  
-Node.js | Express.js  
-
-### 🗄️ Database  
-MongoDB | MySQL  
-
+React.js | HTML | CSS | Tailwind CSS                          ### 🗄️ Database  
+                                                              MongoDB | MySQL 
 ### ⚙️ Tools  
 Git | GitHub | Google Analytics  
 
