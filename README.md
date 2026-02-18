@@ -1,52 +1,119 @@
-# 👋 Hi, I'm Anish Kumar Sah  
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm Anish Kumar Sah
+</h1>
 
-🎓 B.Tech CSE Student | 💻 Full-Stack Developer | 🚀 Problem Solver  
+<h3 align="center">🚀 Full Stack Developer | 💻 DSA Enthusiast | 🎓 B.Tech CSE</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;250%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 About Me  
+## 🌟 About Me  
 
-I am a passionate Computer Science student at Lovely Professional University with strong fundamentals in Data Structures & Algorithms and hands-on experience in building full-stack web applications.
+- 🎓 B.Tech CSE @ Lovely Professional University  
+- 💡 Strong in Data Structures & Algorithms  
+- 🔥 Built Real-Time Full Stack Applications  
+- 🌱 Currently improving Backend & System Design skills  
+- 🎯 Goal: Crack a Product-Based Company  
 
-I enjoy building scalable backend systems, real-time applications, and responsive user interfaces. I have solved 250+ DSA problems and continuously work on improving my problem-solving and development skills.
+---
+
+## 🚀 Live Projects  
+
+### 🛒 Classifieds Platform (OLX-Style)  
+🔗 https://www.apnahero.in/  
+- Real-time chat using Socket.io  
+- Secure authentication  
+- 100% responsive UI  
+- Full MERN Stack  
+
+---
+
+### 📝 Multi-User Blog Platform  
+🔗 https://mindfroge-wepi.onrender.com/  
+- RESTful APIs  
+- Multi-user authentication  
+- Responsive design  
+
+---
+
+### 🌐 Client Website  
+🔗 https://myschool-2ju8.vercel.app/  
 
 ---
 
 ## 🛠️ Tech Stack  
-                                                                    
-### 💻 Languages                                             ### 🔧 Backend  
-C++ | Python | JavaScript                                     Node.js | Express.js  
 
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
 
 ### 🌐 Frontend  
-React.js | HTML | CSS | Tailwind CSS                          ### 🗄️ Database  
-                                                              MongoDB | MySQL 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### 🔧 Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
 ### ⚙️ Tools  
-Git | GitHub | Google Analytics  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
-## 🔥 Projects  
+# 📊 GitHub Stats  
 
-### 🛒 Classifieds Platform (OLX-Style)  
-🔗 Live: https://www.apnahero.in/  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anisharora1&show_icons=true&theme=tokyonight" />
+</p>
 
-- Built and deployed a full-stack classifieds platform  
-- Secure authentication using Clerk  
-- Real-time chat system using Socket.io (500+ concurrent users)  
-- Fully responsive UI (100% mobile compatibility)  
-- Integrated Google Analytics for performance tracking  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisharora1&theme=tokyonight" />
+</p>
 
-**Tech:** MongoDB, React, Express, Node.js, Tailwind CSS  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisharora1&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 Achievements  
+## 🏆 Achievements  
 
-- Solved **250+ DSA problems** (LeetCode & GeeksforGeeks)  
+- ✅ Solved **250+ DSA Problems**  
 - ⭐ 4-Star in C++ on HackerRank  
-- Strong grasp of OOPs and STL  
+- 🧠 Strong OOPs & STL Concepts  
 
 ---
 
-⭐ *Always open to internship and collaboration opportunities in Backend or Full-Stack Development.*  
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:aniskumar890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anish-kumar91/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anisharora1">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🔥 “Consistency beats talent when talent doesn’t work hard.”
+</p>
