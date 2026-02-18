@@ -32,19 +32,6 @@
 
 ---
 
-### 📝 Multi-User Blog Platform  
-🔗 https://mindfroge-wepi.onrender.com/  
-- RESTful APIs  
-- Multi-user authentication  
-- Responsive design  
-
----
-
-### 🌐 Client Website  
-🔗 https://myschool-2ju8.vercel.app/  
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
