@@ -46,30 +46,6 @@ Git | GitHub | Google Analytics
 
 ---
 
-### 📝 Multi-User Blog Platform (Medium-Style)  
-🔗 Live: https://mindfroge-wepi.onrender.com/  
-
-- Developed multi-user blogging system  
-- Designed RESTful APIs for CRUD operations  
-- Clean and structured UI for better content discoverability  
-- Fully responsive across devices  
-
-**Tech:** MongoDB, React, Express, Node.js, Tailwind CSS  
-
----
-
-### 🌐 Static Client Project  
-🔗 Live: https://myschool-2ju8.vercel.app/  
-
-- Built production-ready React website  
-- Improved load speed by ~30%  
-- Mobile-first responsive design  
-- Delivered with zero post-launch defects  
-
-**Tech:** React.js, Tailwind CSS  
-
----
-
 ## 📊 Achievements  
 
 - Solved **250+ DSA problems** (LeetCode & GeeksforGeeks)  
