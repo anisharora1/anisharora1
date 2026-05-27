@@ -36,7 +36,7 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
 </p>
 
 ### 🌐 Frontend  
@@ -56,7 +56,7 @@
 
 ### ⚙️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
