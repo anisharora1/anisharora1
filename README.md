@@ -61,14 +61,14 @@
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anisharora1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisharora1&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=anisharora1&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 ## 🏆 Achievements  
 
 - ✅ Solved **250+ DSA Problems**  
-- ⭐ 4-Star in C++ on HackerRank  
+- ⭐ 5-Star in C++ on HackerRank  
 - 🧠 Strong OOPs & STL Concepts  
 
 ---
